@@ -14,6 +14,6 @@
 
 ### 2. 动图演示
 
-![img](https://www.runoob.com/wp-content/uploads/2019/03/insertionSort.gif)
+![image](https://www.runoob.com/wp-content/uploads/2019/03/insertionSort.gif)
 
 ------

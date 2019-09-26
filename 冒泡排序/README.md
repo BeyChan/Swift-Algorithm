@@ -20,7 +20,7 @@
 
 ### 2. 动图演示
 
-![img](https://www.runoob.com/wp-content/uploads/2019/03/bubbleSort.gif)
+![image](https://www.runoob.com/wp-content/uploads/2019/03/bubbleSort.gif)
 
 ### 3. 什么时候最快
 
