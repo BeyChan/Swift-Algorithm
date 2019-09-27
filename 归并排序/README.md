@@ -29,4 +29,4 @@
 
 ### 3. 动图演示
 
-![image](../images/mergeSort.gif)
+![image](https://github.com/BeyChan/Swift-Algorithm/blob/master/images/mergeSort.gif)

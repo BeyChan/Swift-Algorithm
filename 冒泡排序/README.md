@@ -20,7 +20,7 @@
 
 ### 2. 动图演示
 
-![bubbleSort](../images/bubbleSort.gif)
+![bubbleSort](https://github.com/BeyChan/Swift-Algorithm/blob/master/images/bubbleSort.gif)
 
 ### 3. 什么时候最快
 

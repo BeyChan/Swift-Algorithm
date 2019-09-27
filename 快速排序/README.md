@@ -20,7 +20,7 @@
 
 设要排序的[数组](https://baike.baidu.com/item/数组)是A[0]……A[N-1]，首先任意选取一个数据（通常选
 
-![图片](../images/b7003af33a87e950707fdf2110385343fbf2b416.gif)
+![图片](https://github.com/BeyChan/Swift-Algorithm/blob/master/images/b7003af33a87e950707fdf2110385343fbf2b416.gif)
 
 用数组的第一个数）作为关键数据，然后将所有比它小的数都放到它左边，所有比它大的数都放到它右边，这个过程称为一趟快速排序。值得注意的是，快速排序不是一种稳定的[排序算法](https://baike.baidu.com/item/排序算法)，也就是说，多个相同的值的相对位置也许会在算法结束时产生变动。 [1] 
 

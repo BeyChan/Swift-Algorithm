@@ -14,6 +14,6 @@
 
 ### 2. 动图演示
 
-![image](../images/insertionSort.gif)
+![image](https://github.com/BeyChan/Swift-Algorithm/blob/master/images/insertionSort.gif)
 
 ------

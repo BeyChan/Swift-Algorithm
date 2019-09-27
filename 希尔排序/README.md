@@ -21,4 +21,4 @@
 
 ### 2. 动图演示
 
-![image](../images/Sorting_shellsort_anim.gif)
+![image](https://github.com/BeyChan/Swift-Algorithm/blob/master/images/Sorting_shellsort_anim.gif)

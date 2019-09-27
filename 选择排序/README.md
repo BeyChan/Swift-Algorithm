@@ -14,4 +14,4 @@
 
 ### 2. 动图演示
 
-![image](../images/selectionSort.gif)
+![image](https://github.com/BeyChan/Swift-Algorithm/blob/master/images/selectionSort.gif)
