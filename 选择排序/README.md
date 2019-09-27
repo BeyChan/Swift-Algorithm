@@ -14,4 +14,4 @@
 
 ### 2. 动图演示
 
-![image](https://www.runoob.com/wp-content/uploads/2019/03/selectionSort.gif)
+![image](../images/selectionSort.gif)

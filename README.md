@@ -10,11 +10,11 @@
 
 排序算法可以分为内部排序和外部排序，内部排序是数据记录在内存中进行排序，而外部排序是因排序的数据很大，一次不能容纳全部的排序记录，在排序过程中需要访问外存。常见的内部排序算法有：插入排序、希尔排序、选择排序、冒泡排序、归并排序、快速排序、堆排序、基数排序等。用一张图概括：
 
-![image](https://www.runoob.com/wp-content/uploads/2019/03/sort.png)
+![sort](../images/sort.png)
 
 点击以下图片查看大图：
 
-![image](https://www.runoob.com/wp-content/uploads/2019/03/0B319B38-B70E-4118-B897-74EFA7E368F9.png)
+![0B319B38-B70E-4118-B897-74EFA7E368F9](../images/0B319B38-B70E-4118-B897-74EFA7E368F9.png)
 
 ### 关于时间复杂度
 
@@ -39,7 +39,7 @@ O(n1+§)) 排序，§ 是介于 0 和 1 之间的常数。 希尔排序
 - In-place：占用常数内存，不占用额外内存
 - Out-place：占用额外内存
 - 稳定性：排序后 2 个相等键值的顺序和排序之前它们的顺序相同
-- - **包含以下内容：**
+- - **包含以下内容：**[]()
 
   - - [1、冒泡排序](https://www.runoob.com/w3cnote/bubble-sort.html)
     - [2、选择排序](https://www.runoob.com/w3cnote/selection-sort.html)

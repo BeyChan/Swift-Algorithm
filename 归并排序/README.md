@@ -29,4 +29,4 @@
 
 ### 3. 动图演示
 
-![image](https://www.runoob.com/wp-content/uploads/2019/03/mergeSort.gif)
+![image](../images/mergeSort.gif)
